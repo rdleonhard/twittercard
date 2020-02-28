@@ -1,0 +1,15 @@
+<html>
+<head>
+<meta name="twitter:image" content="<!-- Fill in the body content here -->" />
+<meta name="twitter:card" content="player" />
+<meta name="twitter:title" content="Generate Your Own Personal Token" />
+<meta name="twitter:description" content="Create a personal token inside of this tweet. You'll need a MetaMask or something similar" />
+<meta name="twitter:player" content="https://personaltoken.me" />
+<meta name="twitter:player:width" content="360" />
+<meta name="twitter:player:height" content="560" />
+<title> Title</title>
+</head>
+<body>
+Body Test
+</body>
+</html>
